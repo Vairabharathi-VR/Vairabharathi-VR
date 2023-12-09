@@ -6,7 +6,7 @@ I hold a Master's of Science in Physics from Christ University, Bangalore, where
 
 ## 💻 Experience
 
-As a fresh graduate, I've already made strides in the world of technology through an internship in Python development. This experience not only sharpened my programming skills but also provided me with a practical understanding of software development.
+My journey into the tech world began with a dynamic internship in Python development. This immersive experience not only honed my programming skills but also equipped me with a robust foundation in software development. With a keen focus on leveraging my programming prowess, I've intentionally prepared myself for the exciting realms of data analysis and machine learning. This journey has been a deliberate step towards applying my programming acumen to solve complex problems and extract meaningful insights from data.
 
 ## 🚀 Current Endeavors
 
